@@ -1,0 +1,16 @@
+.work-box{
+    transition: all .5s;
+}
+.work-box:hover{
+    background-color: rgb(137, 41, 146);
+    color: white;
+}
+.work-img{
+    overflow: hidden;
+}
+.work-img img{
+    transition: all .5s;
+}
+.work-box:hover .work-img img{
+    transform: scale(1.1);
+}

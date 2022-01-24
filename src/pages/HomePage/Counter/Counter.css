@@ -1,0 +1,16 @@
+.counter{
+    background-image: url('/public/images/counter-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.counter-box{
+    position: relative;
+}
+/* .counter-box::before{
+    position: absolute;
+    content: "";
+    background-color: blueviolet;
+    height: 80px;
+    width: 5px;
+    margin-left: -10px;
+} */

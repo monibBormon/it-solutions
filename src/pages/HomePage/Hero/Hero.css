@@ -1,0 +1,12 @@
+.hero-area{
+    background-image: url('../../../../public/images/wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+@media screen and (max-width:720px) {
+    .hero-area{
+        background-image: none;
+    }
+}

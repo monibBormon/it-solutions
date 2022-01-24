@@ -1,0 +1,28 @@
+.service-box{
+    transition: .3s all ease-in;
+}
+.service-box:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.service-bg2:hover{
+    background-color: rgb(21, 126, 224);
+}
+.service-bg3:hover{
+    background-color: rgb(196, 41, 118);
+}
+.service-bg4:hover{
+    background-color: rgb(180, 169, 18);
+}
+.service-bg5:hover{
+    background-color: rgb(240, 3, 74);
+}
+.service-bg6:hover{
+    background-color: rgb(47, 209, 6);
+}
+.service-box:hover i{
+    color: white;
+}
+.service-box:hover button{
+    color: white;
+}

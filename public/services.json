@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "https://image.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg",
+        "title": "Web Development",
+        "icon": "fas fa-code",
+        "iconColor": "text-purple-500",
+        "text": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development.",
+        "bgClass": "service-bg1"
+    },
+    {
+        "id": 2,
+        "img": "https://image.freepik.com/free-photo/creative-process-development-ideas-diagram_53876-125422.jpg",
+        "title": "Graphic Design",
+        "icon": "far fa-edit",
+        "iconColor": "text-blue-500",
+        "text": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development.",
+        "bgClass": "service-bg2"
+    },
+    {
+        "id": 3,
+        "img": "https://image.freepik.com/free-photo/marketing-ideas-share-research-planning-concept_53876-127431.jpg",
+        "title": "Digital Marketing",
+        "icon": "fas fa-lightbulb",
+        "iconColor": "text-pink-500",
+        "text": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development.",
+        "bgClass": "service-bg3"
+    },
+    {
+        "id": 4,
+        "img": "https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg",
+        "title": "App Development",
+        "icon": "fas fa-laptop-code",
+        "iconColor": "text-yellow-400",
+        "text": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development.",
+        "bgClass": "service-bg4"
+    },
+    {
+        "id": 5,
+        "img": "https://image.freepik.com/free-photo/desktop-table-office_53876-42947.jpg",
+        "title": "SEO",
+        "icon": "far fa-chart-bar",
+        "iconColor": "text-red-500",
+        "text": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development.",
+        "bgClass": "service-bg5"
+    },
+    {
+        "id": 6,
+        "img": "https://academist.qodeinteractive.com/wp-content/uploads/2018/07/courses-12.jpg",
+        "title": "UI & UX Design",
+        "icon": "far fa-images",
+        "iconColor": "text-green-500",
+        "text": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development.",
+        "bgClass": "service-bg6"
+    }
+]
